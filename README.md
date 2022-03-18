@@ -1,3 +1,9 @@
+# Description
+
+Simple web frontend for creating PDF/printable pages of images in a responsive layout &ndash; the user drags sets of images into the webpage, optionally sets a title, optionally sets a starting page number, and uses the browser print dialog. Images are captioned using their original filename. It can reasonably handle 100+ full resolution photos at a time (they get resized).
+
+------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
